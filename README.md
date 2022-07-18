@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **JS**
 
-- 📝 I regularly write articles on [https://abdullahdoganay.github.io/AkinWeb/ https://medium.com/@AAkinDoganay](https://abdullahdoganay.github.io/AkinWeb/ https://medium.com/@AAkinDoganay)
+- 📝 I regularly write articles on [https://abdullahdoganay.github.io/AkinWeb/ https://medium.com/@AAkinDoganay]
 
 - 📫 How to reach me **abdullah.doganay@tedu.edu.tr**
 
