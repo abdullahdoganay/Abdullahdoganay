@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdullah</h1>
 <h3 align="center">Computer Engineering student in TED University</h3>
 
-- 🔭 I’m currently working on [my personal website](https://abdullahdoganay.github.io/AkinWeb/)
-
-- 🌱 I’m currently learning **JS**
-
 - 📝 I regularly write articles on [https://abdullahdoganay.github.io/AkinWeb/ https://medium.com/@AAkinDoganay]
 
 - 📫 How to reach me **abdullah.doganay@tedu.edu.tr**
